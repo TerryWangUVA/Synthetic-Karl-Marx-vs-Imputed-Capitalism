@@ -43,7 +43,7 @@ The post-treatment window ends at 1945 to avoid the confounding effects of post-
 
 ## Results
 
-Capitalism diverges sharply from Synthetic Capitalism after 1917, reaching roughly 4× the counterfactual frequency by the mid-1930s. The pre-treatment fit is decent. There is a mild pre-treatment trend which we handle the same way Magness & Makovi handle theirs.
+Capitalism diverges sharply from Synthetic Capitalism after 1917, reaching roughly 2× the counterfactual frequency by the mid-1930s. The pre-treatment fit is decent. There is a mild pre-treatment trend which we handle the same way Magness & Makovi handle theirs.
 
 ![Fig 1](fig1_capitalism_vs_synthetic.png)
 
