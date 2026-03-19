@@ -10,7 +10,7 @@ I wanted to practice SCM on real data. This seemed like a good excuse. I had a f
 
 I also noticed that if you run the identical procedure — same treatment year, same data source, same method — but swap "Karl Marx" for "capitalism," you get a similar result.
 
-We find a significant treatment effect, meaning that capitalism's academic stature today owes a substantial debt to political happenstance. Our findings suggest that capitalism's modern intellectual prominence must be reconciled with the essential historical role of the Soviet Union in elevating capitalist doctrine. SCM thereby provides a plausible means of causally inferring a counterfactual historical scenario in the absence of treatment.
+We find a significant treatment effect, meaning that capitalism's academic stature today owes a substantial debt to political happenstance. Our findings nonetheless suggest that capitalism's modern intellectual prominence must be reconciled with the essential historical role of the Soviet Union in elevating capitalist doctrine. SCM thereby provides a plausible means of causally inferring a counterfactual historical scenario in the absence of treatment.
 
 *(The preceding paragraph is composed entirely of sentences from Magness & Makovi (2023), with "Marx" replaced by "capitalism" and "Marxist" replaced by "capitalist." No other changes were made.)*
 
