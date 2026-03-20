@@ -39,6 +39,9 @@ I personally lean toward (b).
 
 Yes, that donor pool is real. Synthetic Marx is 12% Oscar Wilde and 1.4% Lord Kelvin combined. The algorithm determined that a Victorian playwright and a thermodynamics physicist are necessary ingredients for the counterfactual history of socialist political economy. We do not dispute this. We simply note it.
 
+![unrelated](Monkey_AK47.jpg)
+*Picture unrelated. The gun isn't the problem. The monkey is. This statement is also unrelated.*
+
 The post-treatment window ends at 1945 to avoid the confounding effects of post-WWII Marshall Plan discourse — a rationale we consider at least as plausible as Magness & Makovi's decision to stop at 1932 to avoid the Nazi-era academic diaspora.
 
 ## Results
