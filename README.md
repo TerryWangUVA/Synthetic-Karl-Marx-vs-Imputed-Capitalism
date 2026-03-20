@@ -8,7 +8,7 @@ I was reading Magness & Makovi (2023), *"The Mainstreaming of Marx: Measuring th
 
 I wanted to practice SCM on real data. This seemed like a good excuse. I had a few beers. One thing led to another.
 
-I also noticed that if you run the identical procedure — same treatment year, same data source, same method — but swap "Karl Marx" for "capitalism," you get a similar result.
+I also noticed that if you run the identical procedure — same treatment year, same data source, same method — but swap "Karl Marx" for "capitalism," you get a similarly interesting result.
 
 We find a significant treatment effect, meaning that capitalism's academic stature today owes a substantial debt to political happenstance. Our findings nonetheless suggest that capitalism's modern intellectual prominence must be reconciled with the essential historical role of the Soviet Union in elevating capitalist doctrine. SCM thereby provides a plausible means of causally inferring a counterfactual historical scenario in the absence of treatment.
 
@@ -37,7 +37,7 @@ I personally lean toward (b).
 | **Donors** | Lassalle, Rodbertus, Oscar Wilde, Abraham Lincoln, Pasteur, Kelvin, Proudhon | a bunch of -ism's |
 | **Conclusion** | Revolution mainstreamed Marx | Revolution mainstreamed capitalism |
 
-Yes, that donor pool is real. Synthetic Marx is 12% Oscar Wilde and 1.4% Lord Kelvin combined. The algorithm determined that a Victorian playwright and a thermodynamics physicist are necessary ingredients for the counterfactual history of socialist political economy. We do not dispute this. We simply note it.
+Yes, that donor pool is real. Synthetic Marx is 12% Oscar Wilde, 5% Abraham Lincoln and 0.6% Lord Kelvin. The algorithm determined that a Victorian playwright, a US president, and a thermodynamics physicist are ingredients for the counterfactual history of socialist political economy. We do not dispute this. We simply note it.
 
 <div align="center">
 
